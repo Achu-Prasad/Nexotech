@@ -2,7 +2,7 @@ import CtaButton from "./CtaButton";
 
 const Hero = () => {
   return (
-    <section className="pt-20 relative flex min-h-screen w-full items-center justify-center overflow-hidden bg-[#F8F7FF]">
+    <section id="hero" className="pt-20 relative flex min-h-screen w-full items-center justify-center overflow-hidden bg-[#F8F7FF]">
 
       {/* Content Container */}
       <div className="relative z-10 flex flex-col items-center gap-8 px-4 text-center">

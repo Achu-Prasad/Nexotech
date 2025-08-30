@@ -19,7 +19,7 @@ const FloatingBackground = () => {
     <section className="relative flex items-center justify-center py-32 bg-white overflow-hidden">
 
       {/* Foreground Content */}
-      <div className="relative z-10 max-w-3xl text-center px-6">
+      <div className="h-[1400px] relative z-10 max-w-3xl text-center px-6">
         <h2 className="text-4xl font-bold text-gray-800 mb-4">
           The Future of Lending
         </h2>

@@ -9,6 +9,7 @@ const App = () => {
       <Navbar />
       <Hero />
       <Floatingbackground/>
+      <Floatingbackground/>
     </>
   )
 }
