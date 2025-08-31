@@ -91,7 +91,7 @@ const Navbar = () => {
   return (
     <div ref={navbarRef} className="w-full overflow-hidden fixed z-50 top-0">
       {/* Main Navbar */}
-      <nav className="bg-trasperant w-full px-4 sm:px-20 py-2.5 sm:py-3 flex items-center justify-between shadow-md">
+      <nav className="bg-white w-full px-4 sm:px-20 py-2.5 sm:py-3 flex items-center justify-between shadow-md">
         {/* Left: Menu Button */}
         <div className="flex items-center">
           <button
