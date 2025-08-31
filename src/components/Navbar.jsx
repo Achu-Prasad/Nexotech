@@ -89,7 +89,7 @@ const Navbar = () => {
   }, []);
 
   return (
-    <div ref={navbarRef} className="w-full overflow-hidden fixed z-50 top-0">
+    <div ref={navbarRef}>
       {/* Main Navbar */}
       <nav className="bg-white w-full px-4 sm:px-20 py-2.5 sm:py-3 flex items-center justify-between shadow-md">
         {/* Left: Menu Button */}
